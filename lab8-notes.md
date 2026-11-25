@@ -2,6 +2,7 @@ Lab 8 – Laravel MVC Demo
 
 Student: Joshua Stott
 Course: IS 6465 – Web Based Applications
+Repository link: https://github.com/joshstott24-beep/lab8-laravel
 
 Part 1: Application Setup and Testing
 
